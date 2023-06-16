@@ -20,3 +20,4 @@ def strcouner(s):
     for el, count in el_counter.items():
         print(el, count)
 strcounter('aabcd-5')
+
