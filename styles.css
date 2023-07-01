@@ -24,3 +24,9 @@ h1 {
     font-size: 22px;
     font-fanily: Courier New;
 }
+.paragraph-4 {
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 4px 5px 2px green;
+}
